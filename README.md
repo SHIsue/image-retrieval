@@ -9,11 +9,11 @@
   * End-To-End Supervised Product Quantization for Image Search and Retrieval
   
 * ICMR
- * Who’s Afraid of Adversarial Queries? The Impact of Image Modifications on Content-based Image Retrieval
- * Learning Discriminative Features for Image Retrieval
- * Unsupervised Rank-Preserving Hashing for Large-Scale Image Retrieval
- * Integrity Verification in Medical Image Retrieval Systems using Spread Spectrum Steganography
- * An Unsupervised Genetic Algorithm Framework for Rank Selection and Fusion on Image Retrieval
+  * Who’s Afraid of Adversarial Queries? The Impact of Image Modifications on Content-based Image Retrieval
+  * Learning Discriminative Features for Image Retrieval
+  * Unsupervised Rank-Preserving Hashing for Large-Scale Image Retrieval
+  * Integrity Verification in Medical Image Retrieval Systems using Spread Spectrum Steganography
+  * An Unsupervised Genetic Algorithm Framework for Rank Selection and Fusion on Image Retrieval
 
 2018
 ----
