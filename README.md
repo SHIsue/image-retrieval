@@ -14,6 +14,9 @@
   * Unsupervised Rank-Preserving Hashing for Large-Scale Image Retrieval
   * Integrity Verification in Medical Image Retrieval Systems using Spread Spectrum Steganography
   * An Unsupervised Genetic Algorithm Framework for Rank Selection and Fusion on Image Retrieval
+  
+* BMVC 
+  * Semi-supervised Feature-Level Attribute Manipulation for Fashion Image Retrieval [[author](https://github.com/jazzsaxmafia)] [[paper](https://arxiv.org/pdf/1907.05007.pdf)]
 
 2018
 ----
