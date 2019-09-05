@@ -17,6 +17,7 @@
   
 * BMVC 
   * Semi-supervised Feature-Level Attribute Manipulation for Fashion Image Retrieval [[author](https://github.com/jazzsaxmafia)] [[paper](https://arxiv.org/pdf/1907.05007.pdf)]
+  * Regional Attention Based Deep Feature for Image Retrieval [[paper](http://bmvc2018.org/contents/papers/0642.pdf)][[code](https://github.com/jaeyoon1603/Retrieval-RegionalAttention)]
 
 2018
 ----
